@@ -1,3 +1,6 @@
+# Annatolia Ndigeza
+# 2020-04-09370
+
 # CS 234 Lab 1: Hello World"
 
 ## 1. Preliminaries
